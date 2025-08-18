@@ -1,0 +1,12 @@
+.env
+.env.local
+venv/
+__pycache__/
+*.pyc
+.VSCode/
+.vscode/
+.idea/
+.DS_Store
+# If you have a virtual environment named .venv or venv
+.venv/
+venv/
